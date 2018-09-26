@@ -41,19 +41,19 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:orientation="horizontal">
-        <com.example.pickerscrollview.PickerScrollView.PickerScrollView
+        <io.ztc.pickerscrollview.PickerScrollView.PickerScrollView
             android:id="@+id/pick_years_view"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             tools:ignore="NestedWeights" />
-        <com.example.pickerscrollview.PickerScrollView.PickerScrollView
+        <io.ztc.pickerscrollview.PickerScrollView.PickerScrollView
             android:id="@+id/pick_month_view"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             />
-        <com.example.pickerscrollview.PickerScrollView.PickerScrollView
+        <io.ztc.pickerscrollview.PickerScrollView.PickerScrollView
             android:id="@+id/pick_day_view"
             android:layout_weight="1"
             android:layout_width="0dp"

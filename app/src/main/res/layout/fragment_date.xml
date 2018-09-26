@@ -8,11 +8,11 @@
         android:layout_height="match_parent"
         android:layout_above="@+id/date_view"
         android:background="#1F000000"/>
-    <com.example.pickerscrollview.TimePickerScrollView.DatePickerScrollView
+    <io.ztc.pickerscrollview.TimePickerScrollView.DatePickerScrollView
         android:id="@+id/date_view"
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:layout_alignParentBottom="true"
-        android:background="@color/colorBai">
-    </com.example.pickerscrollview.TimePickerScrollView.DatePickerScrollView>
+        android:background="#ffffff">
+    </io.ztc.pickerscrollview.TimePickerScrollView.DatePickerScrollView>
 </RelativeLayout>

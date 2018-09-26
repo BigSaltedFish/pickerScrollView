@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorHuiA">#1F000000</color>
+    <color name="textHeiA">#333333</color>
+    <color name="colorHuiB">#2F000000</color>
+    <color name="colorHuiC">#01000000</color>
+    <color name="colorHuiE">#33c0c0c0</color>
+    <color name="colorBai">#FFFFFFFF</color>
+    <color name="colorQLan">#3F71B5</color>
+    <color name="color_Edit_Hui">#ebebeb</color>
+    <color name="color_Edit_Blue">#0777b1</color>
+    <color name="color_Meeting_BlueA">#0777b1</color>
+    <color name="colorBaiB">#1fb2b1b1</color>
+    <color name="colorHuiD">#999999</color>
+    <color name="colorCheckLan">#3665ab</color>
+    <color name="colorNoCheckHui">#717171</color>
+    <color name="colorViewLineHui">#eeeeee</color>
+    <color name="transparent">#00000000</color>
+</resources>

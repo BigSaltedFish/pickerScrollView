@@ -7,7 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@+id/time_view"
-        android:background="@color/colorHuiA"/>
+        android:background="#1F000000"/>
     <com.example.pickerscrollview.TimePickerScrollView.TimePickerScrollView
         android:id="@+id/time_view"
         android:layout_width="match_parent"

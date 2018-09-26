@@ -7,7 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@+id/date_view"
-        android:background="@color/colorHuiA"/>
+        android:background="#1F000000"/>
     <com.example.pickerscrollview.TimePickerScrollView.DatePickerScrollView
         android:id="@+id/date_view"
         android:layout_width="match_parent"
